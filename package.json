@@ -44,9 +44,9 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "fs-extra": "^10.0.0",
-    "puppeteer": "^13.0.1",
+    "puppeteer": "^24.4.0",
     "sade": "^1.8.1",
-    "sharp": "^0.29.3",
+    "sharp": "^0.32.6",
     "tiny-async-pool": "^1.2.0",
     "tslib": "~2.3.1"
   }
